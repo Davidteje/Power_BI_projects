@@ -1,7 +1,8 @@
 # Power_BI_Projects
 
-In this repository I am uploading some Data Analysis and Business Intelligence reports I am developing with Power BI.
+In this repository I am uploading some Data Analysis and Business Intelligence projects I am doing with Power BI.
 
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Power_BI.jpg.png)
 
 
 
@@ -25,6 +26,8 @@ It is required to be able to analyze by the categories of:
 - Data Visualization
 
 ### RESULT 👨‍💻
+
+![link](https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9)
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P1.png)
 
@@ -61,6 +64,9 @@ It is required to be able to analyze by the categories of:
 
 
 ## PROJECT 3 - Human Resources report
-Human Resources report of the company 'Sku-Don' showing
+Human Resources report of the company 'Sku-Don' showing employee salary and performance information
 
 ### PROJECT GOAL 🎯
+
+
+
