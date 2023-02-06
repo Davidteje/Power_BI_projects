@@ -62,6 +62,7 @@ It is required to be able to analyze by the categories of:
 Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjljZDFkMjUtN2FiZC00ODQ2LWE0ZmQtYzJlOTczNjI2Yzk0IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the result.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P2_1.png)
+
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P2_2.png)
 
 
@@ -90,7 +91,9 @@ It is required to be able to analyze the following:
 Click [here](https://app.powerbi.com/view?r=eyJrIjoiNzA3ZjA5ZmQtZmI2Yy00MGI0LThiZmMtN2I2ZDNlM2Y0NmFlIiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9&pageName=ReportSection) to see the result.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_1.png)
+
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_2.png)
+
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_3.png)
 
 
