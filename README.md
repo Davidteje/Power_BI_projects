@@ -27,7 +27,7 @@ It is required to be able to analyze by the categories of:
 
 ### RESULT 👨‍💻
 
-https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9
+[link](https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9)
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P1.png)
 
