@@ -1,5 +1,6 @@
 # Power_BI_Projects
 
+
 In this repository I am uploading some Data Analysis and Business Intelligence projects I am doing with Power BI.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/Power_BI.jpg)
@@ -7,10 +8,10 @@ In this repository I am uploading some Data Analysis and Business Intelligence p
 
 
 ## PROJECT 1 - Videogames Industry Sales
-Videogame industry sales report by categories and years
+Videogame industry sales report
 
 ### PROJECT GOAL 🎯
-Develop a Power BI report that easily shows an analysis of the videogames insdustry sales.
+Develop a Power BI interactive Develop to analyze the sales of video games worldwide.
 
 It is required to be able to analyze by the categories of:
 - Year
@@ -23,11 +24,11 @@ It is required to be able to analyze by the categories of:
 - Get Data
 - Data Preparation with Power Query Editor
 - Data Modelation 
-- Data Visualization
+- Data Visualization for best possible analysis. 1 Dashboard.
 
 ### RESULT 👨‍💻
 
-[link](https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9)
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the result.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P1.png)
 
@@ -54,9 +55,11 @@ It is required to be able to analyze by the categories of:
 - Creation of DB relations
 - Data Preparation with Power Query Editor - Creation of new categorical groups - conditional columns.
 - Data Modelation - Data formats, Column Title changes, hidding columns.
-- Data Visualization
+- Data Visualization for best possible analysis. 2 Dashboards.
 
 ### RESULT 👨‍💻
+
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjljZDFkMjUtN2FiZC00ODQ2LWE0ZmQtYzJlOTczNjI2Yzk0IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the result.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P2_1.png)
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P2_2.png)
@@ -64,9 +67,30 @@ It is required to be able to analyze by the categories of:
 
 
 ## PROJECT 3 - Human Resources report
-Human Resources report of the company 'Sku-Don' showing employee salary and performance information
+Human Resources report of the company 'Sku-Don' (fictitious company) showing employee salary and performance information.
 
 ### PROJECT GOAL 🎯
+Visualize employee, salary and performance indicators in the form of the company's HR report.
+It is required to be able to analyze the following:
+- Analysis by Employee
+- Total Employees (Count)
+- Average of Age, Salary and Performance
+- Total Salary Costs, Salary to Age Ratio
+- Maximum, minimum and performance evaluation per manager.
 
+### WORK PROCESS  ⚒️
+- Get Data 
+- Creation of DB relations
+- Data Preparation with Power Query Editor - Cleaning data
+- Data Modelation - DAX development, Data formats, Column Title changes, hidding columns.
+- Data Visualization for best possible analysis. 3 Dashboards.
+
+### RESULT 👨‍💻
+
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiNzA3ZjA5ZmQtZmI2Yy00MGI0LThiZmMtN2I2ZDNlM2Y0NmFlIiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9&pageName=ReportSection) to see the result.
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_1.png)
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_2.png)
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_3.png)
 
 
