@@ -1,3 +1,8 @@
+# Powe_BI_Projects
+
+In this repository I am uploading some data analysis and Business Intelligence reports I am developing with Power BI
+
+
 # Project_Power_BI-Videogames_Industry_Sales
 Videogame industry sales Power BI report by categories and years
 
