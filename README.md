@@ -28,7 +28,7 @@ It is required to be able to analyze by the categories of:
 
 ### RESULT 👨‍💻
 
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the Interactive Dashboard.
+[Click here to see the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) 
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P1.png)
 
@@ -59,7 +59,7 @@ It is required to be able to analyze by the categories of:
 
 ### RESULT 👨‍💻
 
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjljZDFkMjUtN2FiZC00ODQ2LWE0ZmQtYzJlOTczNjI2Yzk0IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the Interactive Dashboard.
+[Click here to see the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjljZDFkMjUtN2FiZC00ODQ2LWE0ZmQtYzJlOTczNjI2Yzk0IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9)
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P2_1.png)
 
@@ -88,7 +88,7 @@ It is required to be able to analyze the following:
 
 ### RESULT 👨‍💻
 
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiNzA3ZjA5ZmQtZmI2Yy00MGI0LThiZmMtN2I2ZDNlM2Y0NmFlIiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9&pageName=ReportSection) to see the Interactive Dashboard.
+[Click here to see the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA3ZjA5ZmQtZmI2Yy00MGI0LThiZmMtN2I2ZDNlM2Y0NmFlIiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9&pageName=ReportSection)
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_1.png)
 
