@@ -28,7 +28,7 @@ It is required to be able to analyze by the categories of:
 
 ### RESULT 👨‍💻
 
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the result.
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiNGE5M2Y0MTgtOWJjYi00ZGYwLWJmNTEtMjdkNzRiYTAxMDg4IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the Interactive Dashboard.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P1.png)
 
@@ -59,7 +59,7 @@ It is required to be able to analyze by the categories of:
 
 ### RESULT 👨‍💻
 
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjljZDFkMjUtN2FiZC00ODQ2LWE0ZmQtYzJlOTczNjI2Yzk0IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the result.
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjljZDFkMjUtN2FiZC00ODQ2LWE0ZmQtYzJlOTczNjI2Yzk0IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9) to see the Interactive Dashboard.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P2_1.png)
 
@@ -68,7 +68,7 @@ Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjljZDFkMjUtN2FiZC00ODQ2LWE0
 
 
 ## PROJECT 3 - Human Resources report
-Human Resources report of the company 'Sku-Don' (fictitious company) showing employee salary and performance information.
+Human Resources report of the (fictitious) company 'Sku-Don' showing employee salary and performance information.
 
 ### PROJECT GOAL 🎯
 Visualize employee, salary and performance indicators in the form of the company's HR report.
@@ -88,12 +88,33 @@ It is required to be able to analyze the following:
 
 ### RESULT 👨‍💻
 
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiNzA3ZjA5ZmQtZmI2Yy00MGI0LThiZmMtN2I2ZDNlM2Y0NmFlIiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9&pageName=ReportSection) to see the result.
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiNzA3ZjA5ZmQtZmI2Yy00MGI0LThiZmMtN2I2ZDNlM2Y0NmFlIiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9&pageName=ReportSection) to see the Interactive Dashboard.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_1.png)
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_2.png)
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P3_3.png)
+
+
+
+## PROJECT 4 - Personal Finance
+In progress. I am creating this project and will upload it asap.
+
+
+### PROJECT GOAL 🎯
+Develop a (fictitious) personal finance report that allows visualizing and interacting with easy to understand indicators from any device (PC, tablet, mobile).
+ The report is required to have the following:
+- Being able to review Income, Expenses, Profit (earnings) and Balance (Money available).
+- Ability to review Revenue Targets, Expense Budgets, and Financial Expectations.
+- Perform the necessary calculations to be able to easily track quotas.
+- Colorful interface with consistent text and formatting suitable for any device.
+
+
+
+
+
+
+
 
 
