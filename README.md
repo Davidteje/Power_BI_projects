@@ -1,7 +1,7 @@
 # Power_BI_Projects
 
 
-In this repository I am uploading some Data Analysis and Business Intelligence projects I am doing with Power BI.
+Data Analysis and Business Intelligence projects with Power BI.
 
 ![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/Power_BI.jpg)
 
