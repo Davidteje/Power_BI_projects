@@ -83,7 +83,7 @@ It is required to be able to analyze the following:
 - Get Data 
 - Creation of DB relations
 - Data Preparation with Power Query Editor - Cleaning data
-- Data Modelation - DAX development, Data formats, Column Title changes, hidding columns.
+- Data Modelation - Measure DAX development, Data formats, Column Title changes, hidding columns.
 - Data Visualization for best possible analysis. 3 Dashboards.
 
 ### RESULT 👨‍💻
@@ -99,7 +99,7 @@ It is required to be able to analyze the following:
 
 
 ## PROJECT 4 - Personal Finance
-In progress. I am creating this project and will upload it asap.
+Personal Finance interactive report
 
 
 ### PROJECT GOAL 🎯
@@ -111,10 +111,34 @@ Develop a (fictitious) personal finance report that allows visualizing and inter
 - Colorful interface with consistent text and formatting suitable for any device.
 
 
+### WORK PROCESS  ⚒️
+- Get Data
+- Complex Data Preparation with Power Query Editor.
+- Creation of DB relations
+- Data Modelation - Measures DAX development, Data formats, Column Title changes, hidding columns, Calendar and Date formats and best practices.
+- Data Visualization for best possible analysis. 9 Dashboards. KPIs, Interactions,...
+
+[Click here to see the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2U2NzYzNDUtOGZmMi00NmIwLWFhNzItNzNjOTE5NDBjYjY1IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_1.png)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_2.png)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_3.png)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_4.png)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_5.png)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_6.png)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_7.png)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_8.png)
+
+![Image text](https://github.com/Davidteje/Power_BI_projects/blob/main/img/BI%20Dashboard_P4_9.png)
 
 
 
-
-
-
-
+## PROJECT 5 - DAX Project
+I will load this project as soon as I finish it.
