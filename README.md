@@ -110,13 +110,14 @@ Develop a (fictitious) personal finance report that allows visualizing and inter
 - Perform the necessary calculations to be able to easily track quotas.
 - Colorful interface with consistent text and formatting suitable for any device.
 
-
 ### WORK PROCESS  ⚒️
 - Get Data
 - Complex Data Preparation with Power Query Editor.
 - Creation of DB relations
 - Data Modelation - Measures DAX development, Data formats, Column Title changes, hidding columns, Calendar and Date formats and best practices.
 - Data Visualization for best possible analysis. 9 Dashboards. KPIs, Interactions,...
+
+### RESULT 👨‍💻
 
 [Click here to see the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2U2NzYzNDUtOGZmMi00NmIwLWFhNzItNzNjOTE5NDBjYjY1IiwidCI6IjE2NTM0Y2YxLWIxZDMtNDQwZi1iMWZiLTIyYzI1ZDcyM2E1OSIsImMiOjl9)
 
